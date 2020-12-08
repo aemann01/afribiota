@@ -185,4 +185,6 @@ As EPA tree does not have bootstrap information, also generate a constraint tree
 raxmlHPC-PTHREADS-SSE3 -f a -N 100 -G 0.2 -m GTRCAT -n ent.cons.tre -s queryPlus.align.ent.fa -g ../reference_trees/entamoeba.tre -T 4 -x 25734 -p 25793
 ```
 
+Root tree in figtree before next step
+
 Now you can use the output of your placement tree in the script phyloseq_tree.r
