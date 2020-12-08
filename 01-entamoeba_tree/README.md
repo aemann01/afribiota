@@ -187,4 +187,6 @@ raxmlHPC-PTHREADS-SSE3 -f a -N 100 -G 0.2 -m GTRCAT -n ent.cons.tre -s queryPlus
 
 Root tree in figtree before next step
 
+![](reference_trees/entamoeba_tree.png)
+
 Now you can use the output of your placement tree in the script phyloseq_tree.r
