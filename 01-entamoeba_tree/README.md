@@ -189,4 +189,4 @@ Root tree in figtree before next step
 
 ![entamoeba tree](entamoeba_tree.png)
 
-Now you can use the output of your placement tree in the script phyloseq_tree.r
+Now you can use the output of your placement tree in the R script phyloseq_tree.r.ipynb
