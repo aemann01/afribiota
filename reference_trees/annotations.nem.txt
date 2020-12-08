@@ -1,0 +1,1225 @@
+Accession	Taxonomy
+KP122959.1.1659	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra lagocephali
+KP861914.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Synhimantus cf. laticeps JH-2015
+KY263809.1.1629	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Crassicauda boopis
+KY436826.1.1408	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocamallanus macaensis
+LC026018.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026030.1.1814	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema aegypti
+LC026032.1.1814	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema neoplasticum
+LC026021.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026025.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026017.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026019.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026024.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+LC026029.1.1814	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema aegypti
+LC026031.1.1814	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema aegypti
+LC026033.1.1814	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema neoplasticum
+JR895954.1118.2930	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria immitis (dog heartworm nematode)
+LC071530.1.1694	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Clavinema sp. RF1
+LC026020.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AY702701.1.1774	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Cyrnea mansioni
+AY702703.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera alata
+GU082490.1.1207	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Paracamallanus sp. GC-2009
+AY702704.1.1745	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Serratospiculum tendo
+AY751498.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocerca sp. SAN-2004
+LK982445.214.2069	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Thelazia callipaeda
+LK966068.2547.4353	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Brugia pahangi
+LK978194.845824.847518	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+AY843437.1.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Wuchereria bancrofti
+AY852269.1.1714	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus oesophageus
+AY843438.1.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Wuchereria bancrofti
+AY751497.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocerca lupi
+AY843436.1.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Wuchereria bancrofti
+AY852267.1.1778	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra obturans
+AY852268.1.1713	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+LM006781.1182.2985	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Wuchereria bancrofti
+AY947720.1.1819	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+AY947719.1.1821	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus insignis
+KM434335.1.1221	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Cylicospirura petrowi
+U81574.1.1749	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philonema sp.
+Z96946.1.1796	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gnathostoma binucleatum
+Z96947.1.1796	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gnathostoma neoprocyonis
+Z96948.1.1796	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gnathostoma turgidum
+JF934728.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Tanqua tiara
+JF934734.1.1735	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera thalacomys
+JF934737.1.1639	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus lutrae
+JF934727.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Linstowinema sp. SAN-2011
+JF934736.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocamallanus philippinensis
+JF934732.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona guerreroensis
+JF934733.1.1683	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Proleptus sp. SAN-2011
+JF934735.1.1663	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Breinlia mundayi
+JF934729.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Echinocephalus overstreeti
+DQ094173.1.1773	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+DQ103704.1.1897	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Onchocercidae sp. WB-2005
+DQ094172.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Ascarophis arctica
+DQ118535.1.1750	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Anguillicola crassus
+DQ094171.1.1751	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Acanthocheilonema viteae
+DQ094175.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Setaria digitata
+DQ442666.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus pintoi
+DQ442674.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra sp. MW-2006
+DQ503458.1.1831	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Thelazia lacrymalis
+DQ442669.1.1744	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Skrjabillanus scardinii
+DQ442677.1.1685	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra ovata
+DQ442662.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus cotti
+DQ442670.1.1670	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philonema oncorhynchi
+DQ442678.1.1661	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Micropleura australiensis
+DQ494195.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocamallanus rarus
+DQ531723.1.1746	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dipetalonema sp. YQ-2006
+DQ442665.1.1675	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus pacificus
+DQ442673.1.1787	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dentiphilometra sp. MW-2006
+DQ503457.1.1744	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus sp. V3104
+DQ442660.1.1649	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Neoascarophis macrouri
+DQ442668.1.1764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Molnaria intestinalis
+DQ442676.1.1683	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometroides sanguineus
+DQ442659.1.1653	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona denudata
+DQ442667.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus rebecae
+DQ442675.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra cyprinirutili
+DQ503459.1.1753	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera turgida
+DQ094174.1.1774	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Onchocerca cervicalis
+DQ442664.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus sp. MW-2006
+DQ442672.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Alinema amazonicum
+DQ490223.1.1671	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Anguillicola crassus
+DQ503464.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spinitectus carolini
+DQ442663.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus lacustris
+DQ442671.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Nilonema senticosum
+DQ503463.1.1777	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus oxycephalus
+LK872896.1361.2716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Ascaris lumbricoides (common roundworm)
+HM067977.1.1773	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Streptopharagus sp. JSL-2010
+HM067978.1.1771	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera sp. JSL-2010
+HM566089.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Mexiconema cichlasomae
+HM545908.1.1426	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus sigani
+JF803914.1.1667	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus fulvidraconis
+JF803917.1.1920	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Esocinema bohemicum
+JF803929.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra ocularis
+JF803934.1.1667	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus laeviconchus
+JF803939.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Caranginema americanum
+JF803942.1.1734	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra diplectri
+JF803945.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra lati
+JF803912.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocamallanus rarus
+JF803915.1.1666	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus hypophthalmichthys
+JF803947.1.1759	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Mexiconema africanum
+JF803923.1.1706	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rumai rumai
+JF803928.1.1770	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra floridensis
+JF803933.1.1713	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra morii
+JF803938.1.1643	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona hospeti
+JF803918.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Metabronema magnum
+JF803926.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Heliconema longissimum
+JF803931.1.1663	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus monotaxis
+JF803936.1.1643	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona mazeedi
+JF803913.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona hellichi hellichi
+JF803922.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spinitectus tabascoensis
+JF803927.1.1638	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Salmonema ephemeridarum
+JF803937.1.1643	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Rhabdochona hellichi turkestanica
+JF803941.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometroides grandipapillatus
+JF803944.1.1654	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra spiriformis
+JF803916.1.1667	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra gymnosardae
+JF803919.1.1639	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Cystidicola farionis
+JF803932.1.1663	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Procamallanus annulatus
+JF803948.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra bagri
+JF803921.1.1636	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Neoascarophis longispicula
+JF803930.1.1661	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Ascarophis adioryx
+JF803943.1.1787	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra brevispicula
+JF803946.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Afrophilometra hydrocyoni
+JF803920.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra saltatrix
+JF803940.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra sp. AH-2011
+JF803949.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Heliconema longissimum
+JX456388.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra lateolabracis
+KF770012.1.1810	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770016.1.1809	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770020.1.1821	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770014.1.1777	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770018.1.1821	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770013.1.1821	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770017.1.1809	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770015.1.1817	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF770019.1.1811	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dracunculus medinensis (Guinea worm)
+KF110799.1.1764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Oxyspirura petrowi
+KF110800.1.1764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Oxyspirura petrowi
+KM233410.1.1641	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Crassicauda magna
+AB185161.1.1793	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Margolisianum bulbosum
+EF180069.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Turgida torresi
+EF180071.1.1756	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Camallanus cotti
+EF180064.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Echinuria borealis
+EF180065.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera sp. SAN-2007
+EF180076.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spirocamallanus istiblenni
+EF180077.1.1834	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Tetrameres fissipina
+AB495389.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB495401.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB495397.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB495394.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB513711.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB513707.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646069.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646106.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646109.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema nepalensis
+AB646062.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB513719.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB538282.1.1532	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Thelazia callipaeda
+AB646059.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646107.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema nepalensis
+EU004814.1.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Microtetrameres cloacitectus
+EU004816.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Cyrnea seurati
+EU004817.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Physaloptera apivori
+AB646055.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646064.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+AB646050.1.1782	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Gongylonema pulchrum
+EU004815.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Cyrnea leptoptera
+EU004819.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Synhimantus hamatus
+AB818382.1.1453	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spiroxys japonica
+AF036588.1.1776	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Brugia malayi
+EU004818.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Synhimantus laticeps
+AB973229.1.1744	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria repens
+AB973230.1.1757	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria immitis (dog heartworm nematode)
+AB973231.1.1757	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria immitis (dog heartworm nematode)
+AB818383.1.1468	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spiroxys hanzaki
+AB818381.1.1454	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Spiroxys japonica
+AF182647.1.1329	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria immitis (dog heartworm nematode)
+AF036638.1.1732	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Dirofilaria immitis (dog heartworm nematode)
+AF227233.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Litomosoides sigmodontis
+AF227234.1.1758	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Wuchereria bancrofti
+JPEI01000721.7676.9108	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01001889.27098.28891	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01001891.185.1979	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01001890.5350.7144	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPKZ01003101.357198.358589	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Toxocara canis (dog roundworm)
+KX354835.1.1641	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Crassicauda magna
+FJ161974.1.1672	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra madai
+JPEI01001890.12824.14618	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01001888.6414.8208	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01002218.4517.6311	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01000721.228.2022	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01000890.4203.5997	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPEI01002221.6332.8126	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+JPKZ01002977.16661.18164	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Toxocara canis (dog roundworm)
+FJ161971.1.1701	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra sciaenae
+FJ161973.1.1499	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra sawara
+JPEI01000890.6917.8711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+FJ161975.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra nemipteri
+FJ161972.1.1631	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometra lateolabracis
+FJ155811.1.1672	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Philometroides seriolae
+JMFW02008510.5055.6849	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Tinamus guttatus (white-throated tinamou)
+AYNC01071310.1344.3144	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Ephemera danica
+CABG01000622.26.1832	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Schistosoma mansoni
+ADBU02009332.4271.6065	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Loa loa (eye worm)
+ADBW01003330.1.1234	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Onchocerca volvulus
+JQ771745.1.844_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Spiruridae|Spiruridae_sp.
+JQ771746.1.890_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Spiruridae|Spiruridae_sp.
+KP127854.1.1454	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Myolaimus sp. MRA-2014
+KP204844.1.1546	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema appendiculatum
+KP204845.1.1509	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema sp. VP-2015
+KP756936.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. 67_P20
+KP756937.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. 68_P29
+KP756939.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+KP756940.1.1689	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius dolichura
+KP756938.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. 69_P20
+KP756941.1.1689	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius myriophilus
+DD248849.1.1692	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;unidentified
+DD248850.1.1690	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;unidentified
+DD248851.1.1691	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;unidentified
+KR817916.1.1503	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Neoalloionema tricaudatum
+KR920038.1.1640	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crenosoma vulpis
+FJ969134.1.1733	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrobelus stammeri
+AY168857.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus eckerti
+AY168859.1.1713	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus capreolus
+AY168858.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus eckerti
+AY168861.1.1736	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus filaria
+AY168856.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus viviparus (bovine lungworm)
+AY168860.1.1711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus sp. P6A1
+AY168863.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus eckerti
+AY168862.1.1713	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus capreolus
+AY168864.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus eckerti
+AY268117.1.1731	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+AY284652.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+AY284658.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema sp. JH-2004
+AY284664.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Eucephalobus cf. oxyuroides JH-2004
+AY284666.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Eucephalobus striatus
+AY284673.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides apiculatus
+AY284676.1.1603	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Zeldia sp. JH-2004
+AY284669.1.1602	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterocephalobus elongatus
+AY284681.1.1760	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus subelongatus
+AY284674.1.1600	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cervidellus sp. JH-2004
+AY284686.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metateratocephalus crassidens
+AY284679.1.1600	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Drilocephalobus sp. JH-2004
+AY284682.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema glaseri
+AY295809.1.1687	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metastrongylus salmi
+AY295819.1.1714	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Skrjabingylus chitwoodorum
+AY295816.1.1678	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pseudalius inflexus
+AY295817.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Stenurus minor
+AY284653.1.1665	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis cf. terricola JH-2004
+AY284663.1.1544	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus persegnis
+AY284654.1.1669	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditella axei
+AY284661.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema reticulatum
+AY284672.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides nanus
+AY284675.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Zeldia sp. JH-2004
+AY284668.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterocephalobus elongatus
+AY284670.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterocephalobus elongatus
+AY284685.1.1604	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Euteratocephalus sp. JH-2004
+AY284687.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metateratocephalus crassidens
+AY284678.1.1426	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Drilocephalobus sp. JH-2004
+AY284683.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratocephalus terrestris
+AY284656.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema sp. JH-2004
+AY284660.1.1534	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis sp. JH-2004
+AY284655.1.1678	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema sp. JH-2004
+AY284665.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Eucephalobus oxyuroides
+AY284667.1.1600	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Eucephalobus striatus
+AY284662.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus persegnis
+AY284677.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Chiloplacus propinquus
+AY284671.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeles complexus
+AY284684.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Euteratocephalus palustris
+AY295807.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Filaroides martis
+AY295815.1.1682	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parelaphostrongylus odocoilei
+AY295805.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crenosoma mephitidis
+AY295811.1.1667	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Necator americanus
+AY295813.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Otostrongylus circumlitus
+AY295804.1.1691	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus cantonensis (rat lungworm)
+AY295810.1.1635	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Muellerius capillaris
+AY295820.1.1686	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Troglostrongylus wilsoni
+AY295806.1.1711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Didelphostrongylus hayesi
+AY295812.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oslerus osleri
+AY295814.1.1677	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parafilaroides decorus
+AY284657.1.1680	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema sp. JH-2004
+AY295808.1.1672	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halocercus invaginatus
+AY295818.1.1685	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Torynurus convolutus
+AY542281.1.1466	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;unidentified nematode
+AY542282.1.1345	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus dujardini
+KY654093.1.1369	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus vasorum
+AY542283.1.1357	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heligmosomoides polygyrus
+GQ918144.1.1602	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus sp. WB-2010a
+L04153.3.1750	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus contortus (barber pole worm)
+AY593934.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metateratocephalus crassidens
+AY593921.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter coronatus
+AY593922.1.1631	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis sp. JH-2004
+L04154.3.1750	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus placei
+GU014546.1.1685	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus detritophagus
+AY602182.1.1706	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+AY593920.1.1692	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Plectonchus sp. JH-2004
+L04152.3.1750	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus similis
+AY593925.1.1696	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema reticulatum
+AY602179.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Prodontorhabditis wirthi
+AY602180.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. SB341
+AY602178.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis plicata
+AY602181.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. DF5070
+LC038066.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides sp. Okayama-2014
+LK942974.31.1778	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus costaricensis
+AY751546.1.1670	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis colombiana
+LN611148.1.1435	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+LN613262.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius onirici
+AY702705.1.1687	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Hovorkonema variegatum
+LK995728.15027.16702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditophanes sp. KR3021
+LC157426.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema kushidai
+LN613261.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius onirici
+LK956150.467.1726	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus cantonensis (rat lungworm)
+LK950794.7457.9153	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus cantonensis (rat lungworm)
+GU214747.1.1625	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crenosoma striatum
+LC157427.1.1664	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+LN609412.30867.32576	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+LN624757.1.1633	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+LN827621.1.1554	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis synpapillata
+LC157425.1.1690	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema glaseri
+LC157428.1.1665	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema litorale
+LN827620.1.1554	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis synpapillata
+LN624756.1.1633	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+LN611147.1.1435	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+GU475120.1.1708	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crenosoma sp. RJ-2010
+GU475121.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metastrongyloidea sp. RJ-2010
+LL188724.31473.33196	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heligmosomoides polygyrus
+KM374671.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus sp. AMP-2015
+KM374672.1.1640	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus capreolus
+GU946678.1.1630	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oslerus rostratus
+GU946677.1.1630	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Troglostrongylus sp. RJ-2010
+KM510208.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+KM454870.1.1433	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Baldwinema ilamense
+KM510207.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+KM510210.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. 1 ITDL-2014
+KM510206.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+KM510211.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. 2 ITDL-2014
+KM510209.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+U01230.3.1750	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematodirus battus
+M84229.1.1766	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+U13935.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis blumi
+U13937.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis palmarum
+U13933.1.1701	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pellioditis typica
+U13936.1.1686	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius myriophilus
+U13931.1.1685	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis remanei
+U61760.1.1687	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Zeldia punctata
+U73449.1.1662	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema tripartitum
+U81577.1.1712	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Seleborca complexa
+U13930.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis brenneri
+U13929.1.1686	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis briggsae
+U13932.1.1613	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pelodera strongyloides dermatitica
+U81583.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cuticularia sp.
+U81590.1.1677	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parafilaroides sp.
+U81576.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeles sp.
+U81580.1.1605	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;panagrolaimoid nematode KR3021
+U81582.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema sp.
+U81585.1.1690	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Myolaimus sp.
+U81586.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter sp.
+U73452.1.1635	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis sp.
+U81579.1.1753	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. PS1159
+U81588.1.1675	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius myriophilus
+U81587.1.1675	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+U13934.1.1684	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditella axei
+X03680.934.2693	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+U81581.1.1639	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+U81589.1.1678	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Otostrongylus sp.
+U73446.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;unidentified nematode
+Z92784.23829.25571	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+Z92784.31026.32768	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+KP017252.1.1633	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. REH-2015
+JN636063.1.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis tropicalis
+JN636071.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis guadeloupensis
+JN636064.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis afra
+JN636072.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis yunquensis
+JN636067.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis virilis
+JN636076.1.1707	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis imperialis
+JN636066.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis portoensis
+JN636074.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis macrosperma
+JN636060.1.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+JN636068.1.1728	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis angaria
+JN636077.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis kamaaina
+JN636065.1.1751	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+JN636073.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis wallacei
+JN636061.214.1967	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis briggsae
+JN636069.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis castelli
+JN636078.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. 8 KK-2011
+JN636062.1.1727	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis doughertyi
+JN636070.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. 1 KK-2011
+JQ002566.1.1590	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius rugaoensis
+JQ237848.1.1410	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis rainai
+JQ237850.1.1456	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides maximus
+JQ237849.1.1419	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides maximus
+JQ838254.1.1569	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter sp. ZQZ-2012
+JQ957905.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides cf. buetschlii 1 JH-2012
+JQ957903.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides cf. thornei 1 JH-2012
+JQ957904.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides cf. buetschlii 2 JH-2012
+AJ875121.1.1721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+AJ875120.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+JN049663.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+JN049681.1.1753	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+JN049673.1.1758	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+JN049672.1.1758	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+JN049667.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+EF024401.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+EF024613.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+EF024628.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+EF024370.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+EF024620.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+EF024356.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ceroglossini environmental sample
+EF024408.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;invertebrate environmental sample
+DQ094176.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongylus equinus
+DQ102707.1.1748	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides nanus
+DQ116748.1.1759	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus costaricensis
+DQ285636.1.1805	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus cf. rigidus AF40
+DQ503465.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus sp. V3091
+DQ639980.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+DQ639981.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+DQ531722.1.1384	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditoid sp. YQ-2006
+DQ385848.1.1360	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cuticularia sp. PS-2006
+DQ442679.1.1649	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rondonia rondoni
+HM026569.1.1256	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides sp. TA-2010
+HQ115062.1.1477	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostoma margaretae
+HQ130505.1.1622	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis sp. MR1
+HQ130504.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis sp. RA5
+HQ130502.1.1655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+HQ115061.1.1344	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. SA2
+HQ130503.1.1663	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. FVV-2
+HQ130507.1.1544	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Chiloplacus sp. KJC
+HQ115063.1.1504	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Agfa flexilis
+HQ130506.1.1702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides sp. KJA
+HQ697250.1.1712	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus cf. gingivalis PF-2011
+JF706244.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus cf. gingivalis PF-2011
+JX195097.1.1700	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alaninema sp. MJW-2012
+JX305977.1.1559	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematodirella cameli
+JX290562.1.1638	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Troglostrongylus brevior
+JX674039.1.1543	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus gingivalis
+JX877674.1.1591	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia didelphis
+JX877682.1.1584	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia minispicula
+JX877677.1.1612	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Travassostrongylus callis
+JX877668.1.1581	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Austrostrongylus victoriensis
+JX877673.1.1578	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia viannai
+JX877681.1.1574	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia viannai
+JX877669.1.1584	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oswaldocruzia sp. RPS-2013
+JX877675.1.1535	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia viannai
+JX877684.1.1589	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Austrostrongylus victoriensis
+JX877676.1.1617	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia didelphis
+JX877670.1.1599	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Travassostrongylus sp. RPS-2013
+JX877678.1.1629	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Carolinensis perezponcedeleoni
+JX674037.1.1492	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditophanes sp. AMS-2013
+JX877672.1.1604	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Vexillata convoluta
+JX877680.1.1612	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Viannaia hamata
+JX877671.1.1589	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Travassostrongylus orloffi
+JX877679.1.1627	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Hassalstrongylus sp. RPS-2013
+KF573586.1.1767	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Drasico nemoralis
+KC242218.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Fescia grossa
+KC522706.1.1670	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus rigidus
+KC522711.1.1668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. JB115
+KC522716.1.1669	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. SN103
+KC522715.1.1650	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. PS6470
+KC522708.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. AS01
+KC522713.1.1669	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. PS1159
+KC522709.1.1678	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. AS03
+KC522712.1.1671	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. PS443
+KC522707.1.1674	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus superbus
+KC522710.1.1668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. JB051
+KC522714.1.1669	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus sp. PS1579
+KF732843.1.1618	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sinica
+KC771250.1.1714	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus viviparus (bovine lungworm)
+KJ434176.1.1668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Propanagrolaimus sp. WTM1
+KJ434175.1.1669	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Propanagrolaimus sp. LC91
+KJ636311.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636319.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636396.1.1702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema arenarium
+KJ636404.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+KJ636413.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+KJ636307.1.1692	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Plectonchus wyganti
+KJ636315.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636323.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636392.1.1652	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Propanagrolaimus filiformis
+KJ636312.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636320.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636405.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+KJ636414.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+KJ636308.1.1702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema affine
+KJ636316.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636324.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636393.1.1702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema arenarium
+KJ636401.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636314.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636322.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636408.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+KJ636313.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636321.1.1659	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636377.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter coronatus
+KJ636309.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636317.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636325.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636341.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Odontopharynx longicaudata
+KJ636388.1.1652	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus paetzoldi
+KJ636310.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ636318.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+KJ877200.1.1604	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema sp. VS-2014
+KJ877240.1.1540	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis brassicae
+KJ851579.1.1492	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema appendiculatum
+KM035792.1.1622	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oslerus rostratus
+KC758196.1.1200	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+KT250927.1.1568	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionematidae gen. sp. REH-2016
+LM523351.11218.12911	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parastrongyloides trichosuri
+AB205054.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides procyonis
+KR612312.1.1409	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Brevibuccidae sp. MRA-2015
+AB269816.1.1620	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis synpapillata
+AB272235.1.1661	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni fuelleborni
+AB272234.1.1607	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides procyonis
+AB272232.1.1732	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides robustus
+AB272236.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides cebus
+AB272233.1.1616	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides robustus
+AB272229.1.1642	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides callosciureus
+AB272230.1.1728	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides callosciureus
+AB272231.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides callosciureus
+AB370214.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus floridensis
+AB453317.1.1256	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453329.1.1236	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+AB453323.1.1250	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides papillosus
+AB453328.1.1236	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+AB453330.1.1247	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides venezuelensis
+AB453315.1.1252	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+AB453321.1.1262	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453319.1.1256	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453320.1.1261	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453326.1.1237	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides callosciureus
+AB453316.1.1251	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+AB453311.1.1260	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides mirzai
+AB453318.1.1256	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453313.1.1235	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides myopotami
+AB453314.1.1253	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+AB453322.1.1262	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides fuelleborni
+AB453327.1.1247	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ransomi
+AB453312.1.1247	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides sp. Yufuin-2004
+EF514916.1.1659	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus vasorum
+AB551430.1.1707	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus sp. NKTW
+EF503692.1.1535	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius chongmingensis
+AB535568.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus sp. NKTW41
+EF514913.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus costaricensis
+EF514914.1.1676	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus malaysiensis
+EF514915.1.1677	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus dujardini
+KU180666.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Brevibucca saprophaga
+KU180670.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Fescia grossa
+FXWY01000006.2001002.2002746	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+EF990716.1.1683	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis mariannae
+EF990714.1.1635	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis synpapillata
+AB923885.1.1601	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parastrongyloides trichosuri
+AB923886.1.1635	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides papillosus
+KU180673.1.1711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Turbatrix aceti
+KU180669.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Daubaylia potomaca
+KU180671.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeles complexus
+EU196004.1.1707	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis sp. SB347
+EU196017.1.1646	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema reticulatum
+EF990715.1.1680	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis stiannula
+EU003189.1.1685	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parasitorhabditis obtusa
+EU196005.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephaloboides cf. armata SB363
+FUEF01001062.19950.21692	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+KU180665.1.1712	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Myolaimus byersi
+KU180672.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pseudacrobeles sp. OH-2016
+KU180674.1.1727	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema glaseri
+AB923889.1.1618	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+AF083018.1.1649	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pelodera punctata
+AF083020.1.1707	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pellioditis mediterranea
+AB923888.1.1637	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+KU712560.1.1600	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostoma sp. JLR-2016
+AB923887.1.1631	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides venezuelensis
+AF083011.1.1385	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Distolabrellus veechi
+AF083012.1.1689	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Choriorhabditis dudichi
+AF083017.1.1727	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditoides inermiformis
+AF083021.1.1708	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pellioditis marina
+AF083024.1.1743	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Protorhabditis sp. SB208
+AF083027.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephaloboides sp. SB227
+EU086374.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus contortus (barber pole worm)
+EU196000.1.1674	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. JU727
+EU196008.1.1711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. EM434
+EU196011.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pellioditis sp. JU274
+EU196009.1.1677	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+EU196016.1.1700	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides maximus
+EU196022.1.1706	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius guentheri
+EU086375.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus contortus (barber pole worm)
+AF202160.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus sp. PS1196
+AF202165.1.1741	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Turbatrix aceti
+AF036598.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ostertagia ostertagi
+AF036606.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Syngamus trachea
+EU196002.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Protorhabditis sp. JB122
+EU196012.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cruznema tripartitum
+EU196015.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;rhabditoid sp. PDL15
+EU196018.1.1768	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Brevibucca saprophaga
+AF082994.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. BW282
+AF083023.1.1733	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus oxycercus
+EU196001.1.1706	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+EU196013.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Choriorhabditis cristata
+EU196020.1.1653	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephaloboides nidrosiensis
+EU196023.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pelodera pseudoteres
+AF034390.1.1699	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus oryzae
+AF036605.1.1576	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides ratti
+AF036607.1.1748	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratocephalus lirellus
+AF082997.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditoides regina
+AF083001.1.1668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Protorhabditis sp. DF5055
+AF083006.1.1701	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis angaria
+AF083008.1.1711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis rainai
+AF083028.1.1682	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Parasitorhabditis sp. SB281
+EU543175.1.1771	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides thornei
+EU543176.1.1775	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus detritophagus
+EU306344.1.1800	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides maximus
+EU543177.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis miotki
+KX017480.1.1618	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. VP-2016a
+AF082995.1.1717	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. DF5000
+AF083004.1.1734	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis hepialus
+EU573704.1.1591	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Agfa flexilis
+KX017478.1.1607	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. VP-2016a
+EU196003.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter sp. JU359
+EU196006.1.1566	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis brassicae
+EU196007.1.1573	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditis sp. DF5059
+EU196010.1.1683	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius dolichura
+EU196014.1.1680	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis longespiculosa
+EU196019.1.1759	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cuticonema vivipara
+AF034391.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides sp. PS1146
+AF036591.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius tipulae
+AF036597.1.1687	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nippostrongylus brasiliensis
+EU273597.1.1708	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius chongmingensis
+AF082996.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditoides inermis
+AF082999.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Distolabrellus veechi
+AF083019.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius insectivora
+AF082998.1.1709	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius dolichuroides
+AF083000.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditella sp. DF5044
+AF083009.1.1734	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diploscapter sp. PS1897
+AF083013.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis anisomorpha
+AF083016.1.1362	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis spiculigera
+AF083022.1.1403	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus regenfussi
+AF083026.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sonorae
+AF202161.1.1660	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus cubaensis
+AF202163.1.1785	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Brevibucca sp. SB261
+AF036593.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+AF036599.1.1759	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrellus redivivus
+AF036604.1.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+EU344798.1.1622	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ancylostoma duodenale
+AF083002.1.1646	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pelodera teres
+AF083007.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrellus redivivus
+AF083014.1.1670	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crustorhabditis scanica
+AF083015.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Teratorhabditis synpapillata
+AF083025.1.1710	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis drosophilae
+AF202152.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cervidellus alutus
+AF202159.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides bodenheimeri
+AF202162.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides bodenheimeri
+JZEW01000001.14888077.14889819	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+EU543178.1.1667	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis spiculigera
+EU573705.1.1592	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostoma limacis
+EU573706.1.1625	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dicelis ussuriensis
+EU573707.1.1555	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema appendiculatum
+KX017479.1.1608	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. VP-2016a
+KX017492.1.1523	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema sp. VP-2016a
+AF279916.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Strongyloides stercoralis
+AF202154.1.1671	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Plectonchus sp. PDL0025
+KX017476.1.1313	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. VP-2016a
+AF202151.1.1539	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditophanes sp. KR3021
+AF202153.1.1670	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrobelus stammeri
+AF202156.1.1643	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Halicephalobus gingivalis
+AF202158.1.1649	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobus sp. PS1143
+EU543179.1.1622	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Procephalobus sp. 1 WB-2008
+EU543174.1.1766	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeloides buetschlii
+AF202148.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Acrobeles ciliatus
+AF202150.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Pseudacrobeles variabilis
+KX017477.1.1674	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. VP-2016a
+JZEW01000001.14880880.14882622	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+FJ040423.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema monticolum
+FJ040429.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+FJ040434.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+FJ040449.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Odontopharynx longicaudata
+FJ040406.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cephalobidae sp. MHMH-2008
+FJ040421.1.1590	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema kraussei
+FJ040424.1.1586	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema scarabaei
+FJ040430.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+FJ040451.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema richtersi
+KX378964.1.1629	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus costaricensis
+LJCH01002056.608.2268	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nicrophorus vespilloides
+FJ380929.214.1968	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis briggsae
+KX267673.1.1614	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis sp. SA4
+KX378963.1.1797	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus chabaudi
+FJ516756.1.1580	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Diplogaster sp. JLR-2009
+FJ516754.1.1561	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis neopapillosa
+FJ040433.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+FJ040422.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema glaseri
+FJ040431.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis marelatus
+FJ589019.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus sp. 2 SAN-2009
+AJ920341.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Chabertia ovina (large-mouth bowel worm)
+AJ920358.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Herpetostrongylus pythonis
+AJ920362.1.1783	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus filaria
+AJ920365.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostrongylus vasorum
+AJ920338.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Zoniolaimus mawsonae
+AJ920342.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cylicocyclus insigne
+AJ920359.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Tetrabothriostrongylus mackerrasae
+FJ040420.1.1589	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema kraussei
+FJ040426.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema sp. 1385
+FJ040450.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema reticulatum
+KX385908.1.1480	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Rhabditoides regina
+FJ040414.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus paetzoldi
+FJ040417.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+FJ040432.1.1658	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis megidis
+FJ516751.1.1456	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema appendiculatum
+AF547385.1.1587	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Baujardia mirabilis
+FJ516758.1.1596	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Curviditis sp. JLR-2009
+AJ567385.1.1799	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrolaimus davidi
+FJ040415.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+FJ040418.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+FJ040427.1.1585	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema sp. 1390
+FJ040435.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis sp. 1395
+AJ920345.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Stephanurus dentatus
+AJ920360.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematodirus battus
+FJ040416.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema carpocapsae
+FJ040419.1.1588	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema feltiae
+FJ040425.1.1702	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema affine
+FJ040428.1.1657	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+FJ040436.1.1688	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Poikilolaimus oxycercus
+FJ040452.1.1678	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema richtersi
+AJ920340.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Cyclodontostomum purvisi
+AJ920347.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ancylostoma caninum (dog hookworm)
+AJ920351.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ostertagia leptospicularis
+AJ920357.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nicollina cameroni
+AJ920367.1.1739	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Crenosoma vulpis
+AJ966477.1.1794	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Bunonema franzi
+FJ589015.1.1700	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus sp. 3 SAN-2009
+AJ920344.1.1757	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Syngamus trachea
+AJ920348.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Necator americanus
+AJ920350.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Trichostrongylus colubriformis
+AJ920352.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Ostertagia ostertagi
+AJ920361.1.1763	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus viviparus (bovine lungworm)
+FJ516759.1.1589	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis sp. JLR-2009
+AJ417021.1.1228	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Steinernema karii
+FJ589016.1.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus sp. 1 SAN-2009
+AJ920353.1.1736	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Amidostomum cygni
+AJ920355.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heligmosomoides polygyrus
+AJ920366.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Aelurostrongylus abstrusus
+AJ920368.1.1736	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis zealandica
+FJ665982.1.1425	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Alloionema appendiculatum
+FJ516752.1.1510	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Angiostoma dentifera
+FJ516755.1.1672	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Phasmarhabditis hermaphrodita
+FJ547240.1.1680	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius carolinensis
+AJ920339.1.1757	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Hypodontus macropi
+AJ920343.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Petrovinema poculatum
+AJ920349.1.1760	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Kalicephalus cristatus
+AJ920356.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nippostrongylus brasiliensis
+AJ920363.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Metastrongylus apri
+AJ920337.1.1757	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Labiostrongylus bipapillosus
+AJ920346.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Deletrocephalus dimidiatus
+AJ920354.1.1737	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Filarinema flagrifer
+AJ920364.1.1738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Protostrongylus rufescens
+FJ716584.1.1659	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Mesorhabditis sp. WB-2009
+LNZE01002689.5685.7427	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01002893.7445.9187	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01000772.2190.3932	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01003035.2694.4436	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01001676.4894.6636	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01002642.7135.8877	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01003036.4411.6153	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01002892.1192.2934	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+ABLE03011126.4.1339	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03019588.1.1310	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+LNZE01002893.249.1991	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+ABLE03011705.1.1235	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011918.54.1345	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+LNZE01002899.984.2726	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+ABLE03011725.86.1330	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03019810.1.1268	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+AOMH01000003.1.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Panagrellus redivivus
+ABEG02006517.3670.5412	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis brenneri
+ABLE03011119.9.1220	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03019793.252.1995	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+LNZE01001248.557.2299	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01001922.3637.5379	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01003042.1670.3412	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01001103.5507.7232	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+LNZE01002642.2.1680	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis elegans
+ABLE03014266.311.1569	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03009597.4.1314	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011094.34.1278	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011811.63.1343	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03019970.1.1346	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011140.332.1601	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011185.1.1208	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011715.8.1256	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03009067.286.2030	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+ABLE03011159.59.1325	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis japonica
+LWKT01000270.1322.3063	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000449.3.1518	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000716.4747.6488	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000815.1322.3063	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000914.7.1583	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001017.3107.4848	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001023.85.1826	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001043.1.1465	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001224.1731.3472	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001258.132.1873	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001379.4.1388	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001495.23.1564	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001618.2474.4215	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001756.2116.3857	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001876.5430.7171	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002155.27.1309	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002278.3238.4979	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000153.5217.7191	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002366.2.1284	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000537.1940.3681	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000833.8.1528	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002698.4694.6435	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002740.1705.2987	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002756.5242.6983	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000985.3026.4308	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002927.1820.3561	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003057.1322.3063	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003183.11.1532	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003222.989.2191	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001215.1322.3063	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001400.1221.2962	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001442.730.2471	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001719.4223.5964	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001964.1212.2953	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002056.1322.2899	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002095.3053.4469	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002192.2593.4334	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002266.1062.2803	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002659.1901.3642	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002894.1339.3080	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003006.498.1997	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003024.4970.6711	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000159.2431.4172	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000298.980.2721	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000342.730.2471	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000760.21.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000835.35.1776	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001034.3461.5202	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001130.1973.3714	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001524.2404.4145	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001640.157.1898	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001652.5344.7085	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001761.330.2071	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001771.585.2326	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001839.618.2359	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002418.4751.6245	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002484.5066.6807	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002636.2997.4738	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000001.508124.509865	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000135.2522.4263	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000396.5578.7319	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000883.1.1638	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001063.354.2095	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001235.1248.2596	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001357.31.1460	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001405.2833.4574	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001671.1348.3089	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002079.4919.6660	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002319.17.1592	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002388.236.1977	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002790.2162.3421	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000090.4829.6570	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000336.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000404.6079.7292	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000678.3571.5312	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000764.5431.6906	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000036.990.2731	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000173.5258.6999	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000295.3228.4969	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000337.3394.5135	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000348.2660.4401	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000938.3.1262	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000974.4826.6567	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001269.2359.4100	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001313.1.1347	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001441.2534.4275	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001536.3571.5312	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001550.1311.3052	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001575.719.2460	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001728.1.1740	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001785.2.1371	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001871.1495.3236	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002353.2701.4442	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000986.1.1247	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001126.36.1777	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002566.197.1938	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001165.1154.2895	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002647.2238.3979	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002674.9.1650	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001288.499.2240	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002760.1322.2859	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002798.3213.4954	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002943.3026.4767	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002996.1913.3654	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001649.244.1756	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001663.2693.4434	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003151.1123.2864	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003158.2584.4325	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001726.465.2206	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001762.5387.7128	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003206.3571.5312	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001832.1666.3407	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002307.1128.2523	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002490.21.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002622.132.1873	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002717.2337.4078	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002869.3571.5312	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002889.1322.3063	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002962.21.1596	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+CDPL01000116.2739.4511	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Atribacteria bacterium JGI 0000014-F07
+LWKT01000164.1972.3713	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000267.395.2097	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000294.1731.3472	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000345.3571.5312	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000437.2037.3778	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001566.34.1775	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001774.513.2254	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001931.2775.4516	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002247.3026.4767	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000005.18075680.18077575	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000124.1.1569	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000182.5300.7041	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000284.1322.2899	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000360.4107.5848	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000436.4391.6132	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000485.4418.6159	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000777.3571.4853	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000871.233.1974	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01000902.1.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002359.3039.4780	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002542.1343.3084	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002767.2536.4277	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002919.3571.4853	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002937.3750.5491	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001157.4.1722	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003113.5381.7122	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001246.23.1599	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003204.3024.4765	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001308.1194.2935	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001562.730.2471	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001668.676.2417	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001771.7809.9550	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01001810.35.1776	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002378.450.2191	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002461.2434.3982	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002682.2186.3927	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002876.1229.2970	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002936.2088.3829	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01002957.225.1698	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003180.1.1386	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+LWKT01003225.1319.3060	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis nigoni
+JYHL01000139.1588.3335	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oscheius sp. MCB
+JOOK01111004.901.2590	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Oesophagostomum dentatum
+LFJK01000166.3594.5335	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Caenorhabditis remanei
+LKIA01002359.2953.4675	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Hyaloperonospora arabidopsidis
+FMJQ01000982.152089.153812	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heligmosomoides polygyrus bakeri
+FMJQ01004099.13321.14790	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heligmosomoides polygyrus bakeri
+CAVP010038254.2192.3906	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus contortus (barber pole worm)
+CAVP010038254.4753.6368	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Haemonchus contortus (barber pole worm)
+AZAF01011518.671.1979	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Dictyocaulus viviparus (bovine lungworm)
+EU910600.1.1613	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Nematoda environmental sample
+FPLS01001017.4.1300	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01000852.12.1320	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01001685.28.1261	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01002764.8.1691	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01016530.17.1324	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01032926.8.1316	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLL01008190.2.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+ACKM01000413.8.1627	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Heterorhabditis bacteriophora
+FPLS01045612.8.1316	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01021269.8.1310	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01004797.10.1302	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01019928.1.1444	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01035196.26.1499	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01036740.26.1613	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01038422.10.1313	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01038848.9.1316	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01041994.44.1517	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01052602.71.1378	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01055967.8.1309	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01062774.1.1556	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01046001.10.1318	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01049363.6.1468	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+FPLS01060390.5.1499	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;metagenome
+GCIB01000605.4278.6112	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida;Colobanthus quitensis
+AB661630.1.862_U	18S_rRNA|nucleus|specimen_NIAES:nematode_collection:Rha-A|Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Rhabditidae|Rhabditidae_sp.
+FJ969143.1.1858	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+GQ352558.1.1816	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris vulpis
+GQ352550.1.1854	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352557.1.1816	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris vulpis
+GQ352547.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352554.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352553.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352548.1.1847	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352552.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352555.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352551.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352549.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+GQ352556.1.1816	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris vulpis
+AY851265.1.1912	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+AY856093.1.1843	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+DQ118536.1.1867	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+HF586912.1.1839	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris skrjabini
+HF586909.1.1816	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris vulpis
+HF586908.1.1829	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris arvicolae
+HF586905.1.1844	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+HF586913.1.1840	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris leporis
+HF586907.1.1829	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris muris
+HF586906.1.1846	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris sp. CC 2013
+HF586911.1.1830	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris ovis
+HF586910.1.1830	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris discolor
+AB699092.1.1779	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+AB699091.1.1779	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+AB699090.1.1779	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris trichiura (human whipworm)
+AF036637.1.1845	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris muris
+EU790668.1.1858	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHY01001510.13595.15465	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHY01002156.9051.10959	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHY01002276.4180.6090	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHZ01001484.9168.11038	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHZ01001947.2695.4605	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+JMHZ01001845.14688.16598	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris suis (pig whipworm)
+CBXJ010002982.2905.4764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Chordata;Vertebrata;Gnathostomata;Euteleostomi;Tetrapoda;Mammalia;Trichuris muris
+CBXK010002068.363.1874	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 9;Trichuris trichiura (human whipworm)
+CBXK010003053.4.1564	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;Trichuris trichiura (human whipworm)
+CBXK010003039.335.1822	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Succinivibrionaceae;Succinivibrio;Trichuris trichiura (human whipworm)
+CBXJ010002625.907.2801	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris muris
+CBXJ010002627.871.2766	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Enoplea;Dorylaimia;Trichocephalida;Trichuris muris
+CBXK010002535.1192.2697	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Trichuris trichiura (human whipworm)
+CBXK010001759.1485.3013	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Trichuris trichiura (human whipworm)
+GQ352554.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+DQ118536.1.1867_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352549.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352551.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+AB699091.1.1779_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352557.1.1816_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_vulpis
+AY856093.1.1843_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_suis
+GQ352548.1.1847_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352550.1.1854_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352547.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+FJ969143.1.1858_U	18S_rRNA|nucleus|strain_TriUSui1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_suis
+GQ352558.1.1816_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_vulpis
+AY851265.1.1912_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_suis
+GQ352553.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+AB699092.1.1779_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352555.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+AB699090.1.1779_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+GQ352556.1.1816_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_vulpis
+EU790668.1.1858_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_suis
+GQ352552.1.1846_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_trichiura
+HF586905.1.1844_U	18S_rRNA|nucleus|strain_TS1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_suis
+HF586906.1.1846_U	18S_rRNA|nucleus|strain_Tsp1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_sp.
+HF586907.1.1829_U	18S_rRNA|nucleus|strain_Tm1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_muris
+HF586908.1.1829_U	18S_rRNA|nucleus|strain_Ta1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_arvicolae
+HF586909.1.1816_U	18S_rRNA|nucleus|strain_Tv1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_vulpis
+HF586910.1.1830_U	18S_rRNA|nucleus|strain_Td1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_discolor
+HF586911.1.1830_U	18S_rRNA|nucleus|strain_To1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_ovis
+HF586912.1.1839_U	18S_rRNA|nucleus|strain_Tsk1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_skrjabini
+HF586913.1.1840_U	18S_rRNA|nucleus|strain_Tl1|Eukaryota|Opisthokonta|Metazoa|Nematoda|Enoplea|Enoplea_X|Trichuris|Trichuris_leporis
+KM670445.1.1648	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Hammerschmidtiella cristata
+JF934731.1.1825	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Enterobius vermicularis (human pinworm)
+JF934730.1.1725	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Macropoxyuris sp. SAN-2011
+HQ646164.1.1716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Enterobius vermicularis (human pinworm)
+KJ632671.1.1634	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Ozolaimus linstowi
+KJ632668.1.1649	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Pseudonymus islamabadi
+KJ632669.1.1652	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Pseudonymus spirotheca
+KJ632670.1.1647	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Hammerschmidtiella diesingi
+KJ768610.1.1534	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Enterobius sp. MBR-2015
+EF180061.1.1793	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Passalurus sp. SAN-2007
+EF180073.1.1712	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Leidynema portentosae
+EF180075.1.1762	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Protozoophaga obesa
+EF180068.1.1726	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Thelastoma krausi
+EF180060.1.1735	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Skrjabinema sp. SAN-2007
+EF180066.1.1791	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Wellcomia sp. SAN-2007
+EF180062.1.1735	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Oxyuris equi
+EF180079.1.1834	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Wellcomia siamensis
+EF464553.1.1262	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Syphacia muris
+EF464554.1.1259	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Syphacia obvelata
+EF464552.1.1262	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Passalurus ambiguus
+EF464551.1.1259	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Aspiculuris tetraptera
+AB699690.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Skrjabinema kamosika
+KU285454.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris multilabiatus
+KU285456.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris pigrae
+KU180664.1.1735	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Oxyuris equi
+KU285455.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris minutus
+KU285458.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris pigrae
+KU285457.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris minutus
+KU285462.1.1728	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris atelophora
+KU285453.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris multilabiatus
+KU285459.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris atelis
+KU285460.1.1729	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris atelis
+KU285461.1.1728	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Trypanoxyuris atelophora
+AF036590.1.1779	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Dentostomella sp.
+JPZV01250860.3787.5579	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Blattella germanica (German cockroach)
+KX752427.1.1690	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Blattophila peregrinata
+KX752431.1.1668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Severianoia annamensis
+KX752429.1.1686	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Oxyurida;Hammerschmidtiella keeneyi
+KP275687.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne cotylophora
+KP275680.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Truttaedacnitis heterodonti
+KP275688.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne robusta
+KP275682.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Truttaedacnitis truttae
+KP275684.1.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus sp. AC-2015
+KP275681.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Truttaedacnitis clitellarius
+KP275689.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne mexicanus
+KP275683.1.1723	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus pimelodellae
+KP275686.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Paraseuratum sp. AC-2015
+KP275685.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus robustus
+KP699577.1.1347	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne romani
+KP726274.1.1514	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaroides brasiliensis
+KP726276.1.1562	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaroides brasiliensis
+KP726278.1.1562	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaroides moraveci
+KP742487.1.1604	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullaninae gen. sp. ASM-2015
+KR139827.1.1763	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Spectatus spectatus
+KX859076.1.1469	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaris lanfrediae
+KX859077.1.1469	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaris lanfrediae
+HO348236.6.1724	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+LC018444.1.1780	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cosmocercoides pulcher
+LC057210.1.1639	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaridia nymphii
+LC133188.1.1771	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Strongyluris calotis
+AY702702.1.1730	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Contracaecum microcephalum
+LC133189.1.1764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Strongyluris calotis
+LC133187.1.1760	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Strongyluris calotis
+LC133190.1.1764	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Strongyluris calotis
+LC133186.1.1771	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Strongyluris calotis
+GU245692.1.3707	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Krefftascaris sharpiloi
+LM048720.1.1425	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+LM036165.69576.71366	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+U94367.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris suum (pig roundworm)
+U81575.1.1720	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Anisakis sp.
+U94375.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Hysterothylacium pelagicum
+U94382.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+U94374.1.1753	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Hysterothylacium fortalezae
+U94365.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Anisakis sp.
+U94369.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris transfuga (bear roundworm)
+U94377.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Iheringascaris inquies
+U94371.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cruzia americana
+U94379.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Porrocaecum depressum
+U94370.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Contracaecum multipapillatum
+U94378.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Parascaris equorum
+U94373.1.1753	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Heterocheilus tunicatus
+U94381.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Terranova caballeroi
+U94368.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris procyonis (raccoon roundworm)
+U94376.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Hysterothylacium reliquens
+U94383.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+U94366.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris lumbricoides (common roundworm)
+U94372.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Goezia pelagia
+U94380.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Pseudoterranova decipiens (codworm)
+JF934726.1.1719	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus robustus
+JF934725.1.1673	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne mexicanus
+JN256973.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara cati (cat roundworm)
+JN256978.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256974.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara cati (cat roundworm)
+JN256983.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256987.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris sp. 3 YL-2012
+JN256989.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris transfuga (bear roundworm)
+JN256975.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara cati (cat roundworm)
+JN256980.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256984.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256976.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+JN256981.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256985.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris sp. 1 YL-2012
+JN256979.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256988.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris transfuga (bear roundworm)
+JN256992.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris schroederi (giant panda roundworm)
+JN256990.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris transfuga (bear roundworm)
+JN256977.1.1704	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+JN256982.1.1703	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxascaris leonina
+JN256986.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris sp. 2 YL-2012
+JN256991.1.1705	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Baylisascaris ailuri (red panda roundworm)
+JQ654455.1.1208	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ortleppascaris sp. JNS-2012
+DQ008691.1.1651	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;Ascarina rubricaulis
+DQ442661.1.1642	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Terranova scoliodontis
+DQ503461.1.1697	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raillietnema sp. V3060
+DQ503462.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Heterakis gallinarum
+DQ503460.1.1733	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascaris acus
+DQ118537.1.1752	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Nemhelix bakeri
+LK872896.1361.2716	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Spirurida;Ascaris lumbricoides (common roundworm)
+HM545896.1.1410	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Hysterothylacium sp. JYW-2010
+HQ241923.1.1286	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus dodsworthi
+HQ241925.1.1731	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dichelyne mexicanus
+JF718550.1.1479	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Hysterothylacium deardorffoverstreetorum
+JF803925.1.1630	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Paraquimperia africana
+JF803935.1.1629	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus baylisi
+JF803924.1.1636	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Goezia spinulosa
+KF972437.1.1520	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Raphidascarididae gen. sp. PM-2014
+KJ398347.1.1656	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara vitulorum
+EF180058.1.1718	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaridia galli
+EF180074.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Porrocaecum streperae
+EF180070.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Aspidodera sp. SAN-2007
+EF180078.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara vitulorum
+EF180081.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Dujardinascaris waltoni
+EF180082.1.1755	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Anisakis pegreffii
+EF180080.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Sulcascaris sulcata
+EF180059.1.1798	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara cati (cat roundworm)
+EF180063.1.1765	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Truttaedacnitis truttae
+EF180072.1.1754	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Contracaecum eudyptulae
+EU004820.1.1715	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Porrocaecum angusticolle
+AB908160.1.1780	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cosmocercoides tonkinensis
+AF083003.1.1779	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Heterakis sp. 14690
+AF036587.1.1741	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris suum (pig roundworm)
+AF083005.1.1766	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Paraspidodera sp. 21303
+AF036608.1.1745	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+JPKZ01001071.878.2655	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+JPKZ01003054.65999.67790	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+KX752094.1.1512	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus grandistomis
+JPKZ01000761.186212.188002	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+KX752092.1.1501	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus opisthoporus
+JPKZ01001303.698.2489	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Toxocara canis (dog roundworm)
+KX752096.1.1679	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cucullanus opisthoporus
+FJ516753.1.1644	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Cosmocercoides dukae
+AEUI02001713.2877.4668	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris suum (pig roundworm)
+AEUI02001265.30072.31844	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris suum (pig roundworm)
+ANBK01008868.1340.3130	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Ascaris suum (pig roundworm)
+GETY01041492.45.1775	Eukaryota;Opisthokonta;Holozoa;Metazoa (Animalia);Eumetazoa;Bilateria;Nematoda;Chromadorea;Ascaridida;Alosa alosa (allis shad)
+EF180058.1.1718_U	18S_rRNA|nucleus|specimen_V1740,_S._Nadler,_UC_Davis|Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaridia|Ascaridia_galli
+AEUI01029809.693.2461_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+U94366.1.1754_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_lumbricoides
+JN256986.1.1705_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_sp.
+AEUI01005775.7072.8286_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+M58348.1.1115_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_sp.
+AEUI01006708.5026.6487_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+AEUI01021050.925.2725_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+JN256987.1.1705_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_sp.
+JN256985.1.1705_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_sp.
+U94367.1.1754_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+AEUI01006708.2317.4121_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+AF036587.1.1741_U	18S_rRNA|nucleus||Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaris|Ascaris_suum
+KF609492.1.894_U	18S_rRNA|nucleus|specimen_PNLS268/12|Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaridoidea|Ascaridoidea_gen.
+KF609495.1.878_U	18S_rRNA|nucleus|specimen_PNLS304/12|Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaridoidea|Ascaridoidea_gen.
+KF609496.1.867_U	18S_rRNA|nucleus|specimen_PNLS384/13|Eukaryota|Opisthokonta|Metazoa|Nematoda|Chromadorea|Chromadorea_X|Ascaridoidea|Ascaridoidea_gen.

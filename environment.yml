@@ -1,0 +1,12 @@
+name: afribiota
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - bioconda::vsearch=2.15.1
+  - bioconda::mafft=7.475
+  - bioconda::trimal=1.4.1
+  - bioconda::raxml=8.2.12
+  - anaconda::wget=1.20.1
+  - bioconda::sina=1.7.1
+  - bioconda::seqtk=1.3
