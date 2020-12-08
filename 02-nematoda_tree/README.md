@@ -122,4 +122,10 @@ sed 's/QUERY___//g' RAxML_labelledTree.nem.epa.tre | sed 's/\[I[0-9]*\]//g' > RA
 raxmlHPC-PTHREADS-SSE3 -f a -N 100 -G 0.2 -m GTRCAT -n nem.cons.tre -s queryPlus.align.nem.fa -g ../reference_trees/nematoda.tre -T 4 -x 25734 -p 25793
 ```
 
+Root in figTree and fix labels
+
+```bash
+sed -i 's/_//g' RAxML_bestTree.nem.cons.root.tre
+```
+
 Now you can pass the tree to phyloseq_tree.r
