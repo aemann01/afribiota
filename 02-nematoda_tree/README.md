@@ -128,4 +128,6 @@ Root in figTree and fix labels
 sed -i 's/_//g' RAxML_bestTree.nem.cons.root.tre
 ```
 
-Now you can pass the tree to phyloseq_tree.r
+![nematode tree](nematoda_tree.png)
+
+Now you can pass the tree to phyloseq_tree.r.ipynb
