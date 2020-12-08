@@ -128,6 +128,8 @@ Root in figTree and fix labels
 sed -i 's/_//g' RAxML_bestTree.nem.cons.root.tre
 ```
 
+Remove misannotated bacterial clade with [Archaeopteryx](https://sites.google.com/site/cmzmasek/home/software/archaeopteryx) (Starts with DALASV188, DQ008691.1.1651...)
+
 ![nematode tree](nematoda_tree.png)
 
 Now you can pass the tree to phyloseq_tree.r.ipynb
