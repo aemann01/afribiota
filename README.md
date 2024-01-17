@@ -1,6 +1,6 @@
 # afribiota
 
-This repository describes analyses performed for Vonaesch et al. /////
+This repository describes analyses performed for [Vonaesch et al. 2023](https://academic.oup.com/microlife/article/doi/10.1093/femsml/uqad033/7227336?login=false)
 
 ## Setup
 
